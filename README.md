@@ -3,3 +3,4 @@
 
 ### Hey, it's Summer! :D
 
+add a line with echo and >>
